@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+    background-color: rgb(157, 164, 194);
+}
+
+.Curriculo{
+    text-align: center;
+}
+
+.Cursos{
+    position: absolute;
+    color: rgb(6, 6, 158);
+    width: auto;
+}
+
+.Formação{
+    color: darkred;
+}
+
+.foto img{
+    display: flex;
+    position: absolute;
+    text-align: right;
+    justify-content: right;
+    right: 9%;
+    width: auto;
+    border-radius: 100%;
+}
+
+.Habilidades{
+    color: darkblue;
+}
+
+.elementos {
+    display: inline-flex;
+}
+
+.cor_curso{
+    color:black
+}
+
+.Comentário{
+    color: black;
+}
+
+.fundo2{
+    background-color: rgb(91, 97, 129);
+    margin-right: 50%;
+}
+
+.fundo3{
+    background-color: rgb(133, 59, 59);
+    margin-right: 300px;
+}
+
+.lado{
+    border-right: 50%;
+}
+
+
+

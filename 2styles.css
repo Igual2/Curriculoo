@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(196, 209, 219);
+}
+
+.Habilidades_Competências{
+    display: inline-flex;
+}
+
+.Habil_Compet{
+    color: darkblue;
+}
+
+.espaço2{
+    color: darkblue;
+    margin-top: 60px;
+    margin-left: 40px;
+    border-left: 2px solid black;
+}
+
+.Hobbies{
+    display: inline-flex;
+}
+
+.espaço{
+    margin-left: 40px;
+    margin-top: 63px;
+    color: darkblue;
+    border-left: 2px solid black;
+}
+
+.foto{
+    position: absolute;
+    display: flex;
+    margin-left: 1200px;
+    border-radius: 100%;
+}
+
+.cor_habilidade{
+    background-color: rgb(112, 35, 35);
+}
+
+.cor_hobbies{
+    color: darkblue;
+}
+
+.cor{
+    background-color: rgb(109, 11, 11);
+}
+
+.imagem2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
